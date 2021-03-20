@@ -22,6 +22,7 @@ bool Bob::handleInput()
 			m_TimeThisJump = 0;
 			m_JustJumped = true;
 		}
+	}
 	else
 	{
 		m_IsJumping = false;
